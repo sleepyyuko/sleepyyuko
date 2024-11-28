@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Mental Health</title>
+<link rel="stylesheet" type="text/css" href="Media/Style.css">
+
+ 
+</head>
+<body>
+ 
+	<header>
+<img src="Media/WW.png" height="50px" width="50px">
+<img src="Media/edugo.png" height="50px" width="150px" class="ttt">
+ 
+	</header>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="Index.html"> Home </a></li>
+ 
+	
+<li><a href="Page/Bullying.html"> Bullying </a></li>
+<li><a href="Page/Edu.html"> Education </a></li>
+<li><a href="Page/SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+ 
+ 
+<h1> Mental Health </h1>
+<h4> Let's start fixing our problems by sharing it mutually. </h4>
+<h4> Whether you're a victim from these or not, this website should enlighten you how a human's mental health can be affected starting from just simple jokes to fatalities. </h4>
+ 
+<div id="Start">
+<div>
+<figure>
+<img src="Media/By.jpg" id=Picture1>
+<figcaption>
+
+		Bullying, one of the most gruesome ways that can end someone's life
+<a href="Page/Bullying.html" id="oro"> Read More</a>
+</figcaption>
+</figure>
+</div>
+ 
+<div> 
+<figure>
+<img src="Media/Ch.jpg" id=Picture1>
+<figcaption>
+
+		Education, something that is essential yet causes many catastrophes to the human mind
+<a href="Page/Edu.html" id="oro"> Discover More </a>
+</figcaption>
+</figure>
+</div>
+ 
+<div>
+<figure>
+<img src="Media/SM.Jpg" id=Picture1>
+<figcaption> Social Media, a way to feel too many negative emotions
+<a href="Page/SocialMedia.html" id="oro"> Reveal More </a>
+</figcaption>
+</figure>
+</div>
+</div>
+ 
+<h3> Hot Topics </h3>
+ 
+<a href="Page/Hot_Topics.html" class="tt"> What are some causes that impact our mental health? </a> 
+<a href="Page/HT2.html" class="tt"> What effects can we see from our mental health deterroriating? </a>
+<a href="Page/HT33.html" class="tt"> Is someone's mental health even that important? </a>
+ 
+ 
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="Media/WW.png" height="50px" width="50px">
+<li> <a href="Page/Contacts.html"> Contacts </a></li>
+<li><a href="Page/Aboutus.html"> About Us </a></li>
+<li><a href="Page/References.html"> Resources </a></li>
+</footer>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</body>
+</html>
+ 
+Bullying.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Bullying</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+ 
+	<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+</head>
+<body>
+<style>
+ 
+#Picture2{
+
+display: flex;
+
+	margin-left: auto;
+
+ 
+}
+
+/*img { float:right;
+
+}
+
+*/
+
+.two{ 
+
+	display: flex;
+
+	justify-content: space-between;
+
+	padding-top: 50px;
+
+}
+
+.child{
+
+	width: 50vw;
+
+	height: 50vh;
+ 
+	border: 1px solid black;
+
+}
+ 
+ 
+ 
+ 
+	</style>
+ 
+ 
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media</a></li>
+
+ 
+ 
+</nav>
+<hr>
+ 
+ 
+<h1> Bullying</h1>
+<h4> Bullying can exist both in real life and on the internet. </h4>
+ 
+<p> Bullying and Cyberbullying both exist throughout the world no matter whom you are. Bullying in general is a form of aggression or unwanted behaior that is repeated again and again that is targeted against people that are more vulnerable to the bully. This can harm both their social life and also both their physical and mental well-being. <p>
+<br>
+ 
+<h2>Ways of Bullying</h2>
+ 
+<div class="one">
+<div class="two">
+<div class="child">
+<h2> Physical Abuse</h2>
+ 
+		<p> Physical bullying could mean hitting, shoving, kicking, throwing something or destroying other people's belongings. Killing is also one of the most gruesome ways some may get if the situation goes worse. Due to these physical attacks, many victims also suffer from bruises or other minor injuries which is seen as pitiful to some people making it hard for these victims to continue in further life due to these past scars.
+</div>
+<div class="child">
+<img src="../Media/SG.jpg" height="370px" width="750px">
+</div>
+</div>
+</p>
+<div class="two">
+<div class="child">
+<h2> Psychological Abuse</h2>
+ 
+		<p> If you're getting bullied, some actions like exclusion, gossiping, humiliation or even intimidation could harm the mentality of the victim. Most of the time, the victims who get affected by these actions end up killing themselves due to the trauma. Additionally, those who suffered from these acts tend to develop mental disorders for example like anxiety or depression. They also try to isolate themselves from the outside world as they have already suffered too much making it hard for them to even get contact with people that want to help the victim.
+</div>
+<div class="child">
+<img src="../Media/Mental.jpg" height="370px" width="750px">
+</div>
+</div>
+</p>
+<div class="two">
+<div class="child">
+<h2> Technological abuse </h2>
+ 
+		<p> Technological abuse or also known as cyberbullying takes effect via the internet. Most of the time, those who cyberbully tend to talk bad about someone and their personal traits. This could be to hurt their feelings or to harrass them. Some actions that correlate with technological abuse could be blackmailing, stalking or even chatting inappropriately with someone else. Although cyberbullying cannot cause many fatalities, to some with high reputations, it could shatter their reputation making it seem like the person is cruel and arrogant. To some extents, there could also be doxxing which can find the ip address of the user.
+</div>
+<div class="child">
+<img src="../Media/CB.jpg" height="370px" width="750px">
+</div>
+</div>
+</p>
+</div>
+ 
+<h2> What can we do against bullying? </h2>
+ 
+<p> Whether you're getting physically bullied, psychologically bullied or even technologically bullied, it's important to follow these tips!
+
+ 
+	<h3> Try to address the bully about what you are feeling. If they don't back off, pursue help from guardians. </h3>
+ 
+		 <h3> Spread awareness to both youths and adults about the effects of bullying making sure that there is no cause for potential bullying in the future. </h3>
+ 
+		 <h3>  If you observe someone getting bullied, try to confront both the victim and the bully while asking about the problem. </h3>
+ 
+		 <h3> If you cannot reach the bully, try to ignore, block or even just laugh it off. </h3>
+ 
+		<h3>  If it is a wide-spread bullying, talk to the officials concerning with the proclaimed issue. </h3>
+ 
+		<h3>  If your reputation is at stake, try to point out evidence that favor you and not the attacker. </h3>
+ 
+		 <h3> Last but not least, just try to avoid potential trouble. </h3>
+
+ 
+<h2> Know that your life is worth more than a few vulgar words. </h2>
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+
+
+ 
+	
+
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</body>
+</html>
+ 
+Edu.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Education</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+</head>
+<body>
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+<hr>
+<nav>
+ 
+	<li><a href="../Index.html"> Home </a></li>
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media</a></li>
+</nav>
+<hr>
+<link rel="stylesheet" type="text/css" href="../home.html">
+<h2> Mental Health In Education </h2>
+<p>Mental health in education is essential for students' overall well-being and success. When students face emotional or psychological challenges, it can affect their learning and relationships. Schools have an important role in supporting mental health by offering resources, creating a safe environment, and promoting emotional well-being.</p>
+<br>
+<div class="one">
+<div class="two">
+<div class="three">
+<div class="four">
+<div class="five">
+ 
+	<div class="one">
+<h3>Stress and Anxiety</h3>
+<p>Stress and anxiety are common for students, often from schoolwork, friends, or family issues. These feelings can make it hard to focus or feel good. Schools can help by teaching ways to manage stress, like talking to someone or using relaxation techniques, and by making the school environment less stressful.
+</div>
+<img src="../Media/Stress.jpg" height="250px" width="400px">
+</p>
+ 
+ 
+
+<div class="two">
+<h3>Depression</h3>
+<p>Depression can make it hard for students to do well in school and connect with others. It can cause feelings of sadness, hopelessness, and losing interest in things they once liked. Students with depression may stay away from friends, feel unmotivated, or have trouble focusing. Schools can help by creating a supportive environment, offering counseling, and making sure students know they are not alone.
+</div>
+<img src="../Media/Storm.jpg" height="250px" width="400px">
+</p>
+<div class="three">
+<h3> Support Systems in Schools </h3>
+<p>Support systems are important for students who need help with mental health. This can include counseling, peer groups, or programs to help manage stress and emotions. A school that supports mental health encourages students to talk about their feelings, which helps reduce fear or shame about asking for help. When students feel safe talking about mental health, they are more likely to get the help they need to do well in school and life.
+</p>
+</div>
+<img src="../Media/E.jpg" height="250px" width="400px">
+<div class="four">
+<h3> Role of Teachers in Mental Health </h3>
+<p>Teachers often notice when students are struggling with their behavior or emotions. By recognizing signs like mood changes or trouble focusing, teachers can offer early support. Teachers can help by providing a safe space for students, encouraging good behavior, and making sure students don’t feel overloaded with work. Talking about feelings regularly can make students feel understood and supported.
+</p>
+</div>
+<img src="../Media/Ono.jpg" height="250px" width="400px">
+<div class="five">
+<h3> Promoting Mental Health Awareness </h3>
+<p>Raising awareness about mental health in schools helps reduce the shame or fear that students might feel. When students learn about mental health, they understand their own feelings better and know when to ask for help. Teaching both students and staff about mental health can create a kinder, more supportive school where students feel comfortable reaching out for help.
+</p>
+</div>
+<img src="../Media/ME.jpg" height="250px" width="400px">
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+ 
+</body>
+</html>
+ 
+SocialMedia.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ff</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+</head>
+<body>
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+ 
+  <nav>
+<hr>
+<li><a href="../Index.html"> Home </a></li>
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media</a></li>
+<hr>
+</nav>
+<body>
+<h1>Mental health in Social Media</h1>
+<p>
+
+      Social media's impact on mental health is complex, with both positive and negative effects. On one hand, it offers a platform for connection, support, and self-expression, which can be empowering. However, its more harmful effects are often tied to the constant comparison users make between their lives and the curated images they see online. The portrayal of "perfect" lives, bodies, and achievements can trigger feelings of inadequacy, leading to anxiety and low self-esteem. People, especially young users, may internalize these ideals, leading to body image issues and dissatisfaction with their own lives. </p>
+<p>The pressure to constantly present an idealized version of oneself can also contribute to mental health struggles. Many users seek validation through likes, comments, or shares, and when these expectations aren't met, it can lead to disappointment and emotional distress. This pursuit of external validation often becomes addictive, as social media platforms are designed to trigger dopamine responses. Over time, this can create a dependency on online approval, exacerbating feelings of loneliness and emotional vulnerability. Furthermore, the anonymity of online interactions can fuel cyberbullying, harassment, or trolling, which can deeply affect one’s sense of safety and self-worth. </p>
+<p>Beyond these emotional tolls, social media can interfere with healthy habits and coping mechanisms. Sleep disruptions are common due to late-night scrolling or blue light exposure, which in turn affects overall mental health. The constant flow of negative news and distressing content can also contribute to stress and a sense of helplessness, especially when users feel overwhelmed by the negativity or crisis events displayed online. To protect mental health, it's essential for individuals to set boundaries around social media use, curate their online environment to foster positivity, and take regular breaks from the digital world to focus on offline activities that promote well-being. </p>
+ 
+<img src="../Media/sc.jpg" width="370px" height="265px" class="ttt">
+<h2> What can we do against these effects of Social media? </h2>
+ 
+ 
+<p> Like no other mental issue, social media also has many ways to combat its flaws. </p>
+ 
+<p> Don't get discouraged by people you see on the internet, they may look "perfect", but you should judge someone from just a glance of their life.</p>
+<p> Try to limit how much screen time you have and take breaks.</p>
+<p> If you're feeling insecure, try not to overshare with strangers on the internet about your personal life. </p>
+<p> Check the positive side of the world.</p>
+<p> Last but not least, don't try to seek validation from simple emojis. Find what matters in life to you like something that is irreplacable.</p>
+<hr>
+ 
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+ 
+</body>
+</html>
+ 
+Hot_Topics.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Hot Topics</title>
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+ 
+	
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+ 
+<h2> Hot Topics </h2>
+<h4> Your curiousity awaits! </h4>
+ 
+<h3> What are some causes that impact our mental health? </h3>
+ 
+<p> As this website disccuses, some causes may be because of Irrational behaviour, the pressure exceeded from education or even just by scrolling through social media. But fundamentally, our environment is the true cause. If we are with people that would abuse us, spread negative things about us or even exclude us from events, this could hurt our mentality. Additionally, physical pain can cause trauma which can induce our psychological mind to be at a state of scardness. Even the act of stress, anxiety or other emotions that can cause an overwhelming amount of problems to our mind. Thus, there are many ways for us to experience an impact on our mental health which means we should always be cautious not to suck up any of these ill intentions. </p>
+ 
+<p> Children might face many mental health problems relating with either their parents or even from education. As parents, it is no doubt that their duty is to protect their offspring. But, if they use any voilent actions or words, this could potentially hurt or put a scar on their mental health. </p>
+ 
+<p> Teenagers might face various mental health problems mainly from the stress of education due to the amount of tasks and exams they would give in which we simply cannot handle. This could cause many irrational actions for the youth to do due to these unrealistic expectations also sent on them from other people. </p>
+ 
+<p> Adults and Elders might face mental health problems purely from their age and the joyous memories of their younger times. Everyone seeks to be young yet time flies by. Additionally, usages of drugs could also affect their mental health. </p>
+ 
+<p> Some psychological problems might also be caused by genetic factors like psychopathy or ADHD(Attention Deficit Hyperactivity Disorder) . So, you shouldn't always blame people for acting how they are. They have a chance of being disabled. </p>
+ 
+<img src="../Media/Time.jpg" class="ttt" width="700px" height="400px">
+ 
+<img src="../Media/Mood.png" class="tttt" width="700px" height="400px">
+ 
+ 
+</body>
+</html>
+ 
+ 
+HT2.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Hot Topics</title>
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+ 
+	
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+ 
+<h2> Hot Topics </h2>
+<h4> This should be the question you're fascinated with! </h4>
+ 
+<h3> What effects can we see from our mental health deterroriating? </h3>
+ 
+<p> As our mental health deterriorates, people could be seen doing harrasful behaviours due to the sudden outburst of negativity.</p>
+ 
+<p> When mental health gets worse, you might feel sad, anxious, or angry more often. It can be hard to focus, and you may have negative thoughts. You might avoid people, lose interest in things you enjoy, and notice changes in sleep, appetite, or energy. Relationships and work can also be affected.</p>
+ 
+<p> There can also be more mood changes which can affect our personalities when we talk to people giving off different impressions. Aside from that, more and more suicidal thoughts could occur due to the lack of enjoyment in life.</p>
+ 
+<p> It is said that your environment is the key to future, so if you are having difficult times, it might just be your environment.</p>
+ 
+<img class="ttt" src="../Media/Dre.jpg" width="250px" height="400px">
+ 
+ 
+ 
+</body>
+</html>
+ 
+ 
+ 
+HT33.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> Hot Topics</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+ 
+	
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+<h2> Hot Topics </h2>
+<h4> Here is the question that you're wondering about! </h4>
+ 
+<h3> Is someone's mental health even that important? </h3>
+ 
+<p> Mental health is important because it affects how you think, feel, and act, and it impacts many aspects of your life, including your relationships, work, and physical health. </p>
+<h4> Coping with stress </h4>
+<p> Good mental health helps you deal with the stresses of life, including losses, changes, fears, and uncertainties. </p> 
+
+<h4>Building relationships</h4>
+<p>Good mental health helps you form and maintain healthy relationships with others. </p>
+
+<h4>Realizing your potential</h4>
+<p>Good mental health helps you learn well, work well, and contribute to your community. </p>
+
+<h4>Being physically healthy</h4>
+<p>Good mental health can help you be physically healthy.</p>
+
+<h4>Making decisions</h4>
+<p>Good mental health is a key part of your ability to make decisions and shape the world around you. </p>
+
+<h4>Feeling good</h4>
+<p>People with good mental health may feel happy, confident, hopeful, and generally satisfied with life. </p> 
+
+<p>Mental health is a basic human right and a crucial part of personal, community, and socio-economic development.  
+
+Mental health can affects your brain and cognitive functioning
+
+Well, just like poor physical health can affect internal organs like your heart and gut, poor mental health can affect the way your brain works. </p>
+ 
+<img src="../Media/book.jpg" width="600px" height="400px" class="ttt">
+<img src="../Media/colo.jpg" width="600px" height="400px" class="tttt">
+ 
+ 
+ 
+</body>
+</html>
+ 
+ 
+Aboutus.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> au</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+ 
+<h3> About Us </h3>
+<h4> Some of you might be wondering the purpose of this website, so we will be answering it. </h4>
+<hr>
+ 
+<p> Well, we have been noticing that more and more people, youths in general are facing alot of issues regarding their psychological status yet this problem doesn't get enough importance making it get underestimated. So, by creating this website, more and more users should be aware of how our mental health is affected in everyday life and also about the importance of good mental health. Additionally, we too would like more people to know about how we can help people suffering from mental issues. At first glance, most people might have bad impressions on someone that is acting involunterily because of their mental health but we should always try to think in a better perspective and see if they are okay or not by comforting them. </p>
+ 
+<p> We are all glad that his website and this project turned out succesful. Hopefully, more people will know about this global issue that is mental health not just in our local commmunity but to extend it around the world. </p>
+ 
+<p> Each of us have different backgrounds, but we are all united by one goal. </p>
+<hr>
+ 
+<h3> Bound to the world, yet lost </h3>
+<p> As this is our greeting, it also holds much meaning.</p>
+<p> We understand ghosts as lost souls that wander Earth with a duty they must fulfill to see "The Light". Although our group's name is Wellness Spirits, we don't really know much about the outer world yet we try our best to enlighten others about global issues and how we can help combat them prior to our knowledge and what we discover. Hence we're also lost indiviuals.</p>
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+<hr>
+</body>
+</html>
+ 
+Contacts.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title> contacts</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+ 
+	
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+<h4> Contacts </h4>
+<h4> If you have any questions concerning with our work, you don't have to worry! You can contact anyone of us from our group. Here are the details >>> </h4>
+ 
+<div id="Start">
+<div>
+<figure>
+<img src="../Media/pao.jpg" id=Picture1>
+<figcaption>
+
+		Lao Saing Phoung
+<p> Lead writer of Education's impact </p>
+<h4>Email: phoung298@gmail.com </h4>
+</figcaption>
+</figure>
+</div>
+ 
+<div> 
+<figure>
+<img src="../Media/Fan.jpg" id=Picture1>
+<figcaption>
+
+		Phoo Pwint Haythi
+<p> Lead writer of Social Media's impact</p>
+<h4>Email: xxxzoey82@gmail.com </h4>
+</figcaption>
+</figure>
+</div>
+ 
+<div>
+<figure>
+<img src="../Media/Mabel.jpg" id=Picture1>
+<figcaption> 
+
+			Poe Wati Oo
+<p> Head Designer</p>
+<h4>Email:poewatioo305@gmaill.com </h4>
+</figcaption>
+</figure>
+</div>
+</div>
+ 
+<div id="Start">
+<div>
+<figure>
+<img src="../Media/linton.jpg" id="Picture1">
+<figcaption>
+
+				Bhone Htet Naing
+<p> Lead writer of Bullying's impact</p>
+<h4> Email: bhone.h.naing@gmail.com </h4>
+</figcaption>
+</figure>
+</div>
+</div>
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+ 
+</body>
+</html>
+ 
+References.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>references</title>
+<link rel="stylesheet" type="text/css" href="../Media/Style.css">
+<header>
+<img src="../Media/WW.png" height="50px" width="50px">
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+</header>
+</head>
+<body>
+<hr>
+<nav>
+ 
+ 
+	<li><a href="../Index.html"> Home </a></li>
+ 
+	
+<li><a href="Bullying.html"> Bullying </a></li>
+<li><a href="Edu.html"> Education </a></li>
+<li><a href="SocialMedia.html"> Social Media </a></li>
+
+ 
+</nav>
+<hr>
+ 
+<h3> References </h3>
+<h4> Here are all the published works and art we have referenced. If you would like more information about this topic, make sure to pay them a visit!</h4>
+ 
+<h4> Thanks to all these image authors for giving us the chance to use their work!</h4>
+ 
+<p> All of these authors are from Pixabay </p>
+<p> Alexas_Fotos, PicJumbo_Con, MariexMartin, NoName_13, SuttleMedia, Elegant_Insipration_Art, chenspec, RosZie, LubosHouska, HolgersFotografie, steveriot1, W0KANDAPIX, Engin_Akuyurt and Kreatikar.</p>
+<p> Note: Thank you for being able to use your work throughout our website. </p>
+<hr>
+ 
+<p> All of these authors are from Pinterest </p>
+<p> Mabel, Chicken_nuggies, Midnight Ant and Arianna.</p>
+<p> Note: Thank you for being able to use your pictures as photo placeholders. </p>
+<hr>
+ 
+<h4> Bullying references </h4>
+<p> All of these websites were found on Microsoft Edge </p>
+<a href="https://www.webmd.com/mental-health/how-does-bullying-affect-mental-health"> How does bullying affect mental health? </a>
+<p> Author: Dan Brennan, Title: How does bullying affect mental health?, Published Date: April 18 2023, Accessed Date: November 13 2024</p>
+ 
+<a href="https://www.stopbullying.gov/bullying/what-is-bullying"> What is bullying? </a>
+<p> Authors: U.S. Department of Health and Human Services, Title: What is bullying?, Published/Last Updated Date: October 7, 2024, Accessed Date: November 13 2024 </p>
+ 
+<a href="https://www.psychologytoday.com/us/basics/bullying?msockid=37f9980a8a1d68f133578a1b8b1c695b"> Bullying </a>
+<p> Authors: Psychology Today, Accessed Date: November 13 2024 </p>
+ 
+<hr>
+<h4> Education references </h4>
+<p> All of these websites were found on Microsoft Edge </p>
+<a href="https://www.npr.org/sections/ed/2016/08/31/464727159/mental-health-in-schools-a-hidden-crisis-affecting-millions-of-students"> Mental health at school </a>
+<p> Author: nprED, Title: Mental health in schools: a hidden crisis affecting millions of students, Published Date: August 31 2016, Accessed Date: November 18 2024</p>
+ 
+<a href="https://www.unicef.org/media/126821/file/Promoting%20and%20protecting%20mental%20health%20in%20schools%20and%20learning%20environments.pdf"> Learning at school </a>
+<p> Authors: Unicef, World Health Organization and Unesco, Title: Five essential pillars for promoting and protecting mental health and psychosocial well-being in schools and learning environments , Published Date: 2022, Accessed Date: November 18 2024 </p>
+ 
+<a href="https://www.collegenp.com/article/mental-health-in-education-importance-strategies-and-educator-support"> Mental health in education </a>
+<p> Authors: Collegenp, Title: Mental health in education: importance, strategies and educator support, Published Date: April 9 2024, Accessed Date: November 18 2024  </p>
+<hr>
+ 
+<h4> Social Media references </h4>
+<p> All of these websites were found on Microsoft Edge </p>
+<a href="https://www.apa.org/monitor/2022/11/strain-media-overload"> Social Media Overload </a>
+<p> Author: Charlotte Huff, Title: Media overload is hurting our mental health. Here are ways to manage headline stress, Published Date: November 1 2022, Accessed Date: November 16 2024</p>
+ 
+<a href="https://www.psychologytoday.com/us/blog/from-trial-to-triumph/202303/how-to-protect-your-mental-health-when-using-social-media?msockid=37f9980a8a1d68f133578a1b8b1c695b"> Protecting ourself from social media </a>
+<p> Authors: Carla Shuman, Title: How to Protect Your Mental Health When Using Social Media , Published Date: March 17 2023, Accessed Date: November 16 2024 </p>
+ 
+<a href="https://health.ucdavis.edu/blog/cultivating-health/social-medias-impact-our-mental-health-and-tips-to-use-it-safely/2024/05"> Tips to use social media safely </a>
+<p> Authors: UCDavisHealth, Title: Social media’s impact on our mental health and tips to use it safely, Published Date: May 10 2024, Accessed Date: November 16 2024  </p>
+ 
+<hr>
+ 
+<footer class="t"> 
+<img src="../Media/edugo.png" height="50px" width="150px" class="ttt">
+<img src="../Media/WW.png" height="50px" width="50px">
+<li> <a href="Contacts.html"> Contacts </a></li>
+<li><a href="Aboutus.html"> About Us </a></li>
+<li><a href="References.html"> Resources </a></li>
+</footer>
+</body>
+</html>
+ 
